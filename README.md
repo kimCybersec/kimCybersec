@@ -1,4 +1,5 @@
 # 💫 About Me:
+I'm a cybersecurity professional with a passion for coding, machine learning and AI. I enjoy leveraging my diverse skillset to develop innovative solutions in the tech space.
 I am currently working on an EFL pipelining system
 
 

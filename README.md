@@ -18,5 +18,3 @@ I am currently working on an EFL pipelining system
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kimCybersec&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
